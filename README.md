@@ -25,7 +25,7 @@ Current examples of HTML element's being utilized in my garden-plot (project):
 ## Headings
   ``` html
   <h1>Welcome to Electric Gardens' in Progress Website!</h1>
-  <h2> About Me</h2>
+  <h2>About Me</h2>
 
 ## Links
 
